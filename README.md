@@ -16,7 +16,7 @@ I’m an **ISTQB® Certified Software Test Automation Engineer** with expertise 
 - Web UI Automation, API Automation, Desktop Application Automation  
 
 ### Automation Technologies  
-- Playwright, ROBOT Framework, AutoIt, Sikuli  
+- Playwright, ROBOT Framework, AutoIt, SikuliX  
 
 ### Databases  
 - Snowflake, MySQL, KQL  
