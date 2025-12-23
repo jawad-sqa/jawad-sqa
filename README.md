@@ -2,7 +2,7 @@
 
 ## Software Quality Assurance Engineer | ISTQB® Certified 
 
-I’m an **ISTQB® Certified Software Test Automation Engineer** with expertise in **manual and automation testing**. I specialize in **API, database, and UI testing**, ensuring software quality through well-structured test strategies.
+I’m an **ISTQB® Certified Software Quality Assurance Engineer** with expertise in **manual and automation testing**. I specialize in **API, database, and UI testing**, ensuring software quality through well-structured test strategies.
 
 ## Technical Skills  
 
